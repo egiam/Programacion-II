@@ -1,0 +1,18 @@
+Clase 25/08
+
+Transacciones
+
+item.Producto.ProductoNro = Composicion
+
+Transaccion: Si algo salio mal q directamente no se ejecute
+SqlTransaction transaccion = null;
+transaccion = conexion.BeginTransaction(); --Para comenzar la transaccion
+transaccion.conection
+transaccion.commit
+transaccion.rollback
+
+
+
+
+
+

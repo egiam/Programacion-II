@@ -1,0 +1,60 @@
+Clase 18/08
+
+Gestion ABMC maestro-detalle
+Es una asociacion entre dos bloques de datos que refleja una relacion de clave primaria - clave foranea entre las tablas
+El maestro se basa en la clave primaria y el detalla en la foranea.
+
+Pracial 1: 25/09
+Parcial 2: Trabajo en grupo de a 4/5
+
+--------------------------------------------
+Proximo presupuesto
+	    
+	    SqlConnection conexion = new SqlConnection();
+            conexion.ConnectionString = @"Data Source=localhost\SQLEXPRESS;Initial Catalog=carpinteria_db;Integrated Security=True";
+            conexion.Open();
+
+            SqlCommand comando = new SqlCommand();
+            comando.Connection = conexion;
+            comando.CommandType = CommandType.StoredProcedure;
+            comando.CommandText = "SP_PROXIMO_ID";
+
+            SqlParameter param = new SqlParameter("@next", SqlDbType.Int);
+            param.Direction = ParameterDirection.Output;
+            comando.Parameters.Add(param);
+
+            comando.ExecuteNonQuery(); //NonQuery cuando es un insert, update, delete
+
+	    lblNroPresupuesto.Text += param.Value;
+
+            conexion.Close();
+
+
+----------------------------------------------
+CargarProductos
+
+	    SqlConnection conexion = new SqlConnection();
+            conexion.ConnectionString = @"Data Source=localhost\SQLEXPRESS;Initial Catalog=carpinteria_db;Integrated Security=True";
+            conexion.Open();
+
+            SqlCommand comando = new SqlCommand();
+            comando.Connection = conexion;
+            comando.CommandType = CommandType.StoredProcedure;
+            comando.CommandText = "SP_CONSULTAR_PRODUCTOS";
+
+            DataTable tabla = new DataTable();
+            tabla.Load(comando.ExecuteReader());
+
+            conexion.Close();
+
+            cboProductos.DataSource = tabla;
+            cboProductos.DisplayMember = "n_producto";
+            cboProductos.ValueMember = "id_producto";
+
+
+----------------------------------------------------
+
+
+
+
+

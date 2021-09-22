@@ -1,0 +1,32 @@
+Clase 11/08
+
+ADO.NET
+ - Connection: Maneja la conexion a una BD
+ - Command: Ejecuta comandos contra una BD
+ - DataAdapter: Intercambia datos entre un DataSet y una BD
+ - DataSet: Copia local de datos relacionales
+ - DataReader: Proporciona acceso a datos. read-only, foward-only
+
+Modelo desconectado
+ Para conectarnos a una fuente de datos y ejecutar comandos SQL se debe establecer una coneccion y
+ luego cerrarla explicitamente.
+Modelo Conectado
+ Da la posibilidad de trabajar localmente con los datos en memoria para luego sincronizar y
+ actualizar nuestra BD a posterior.
+
+Procedimiento almacenado
+ Es un conjunto de sentencias SQL que aceptan y/o retornan cero o mas variables, comunmente
+ llamados parametros.
+
+Como ejecutarlo?
+ Con un objeto Command con su propiedad CommandType, con valor CommandType.StoredProcedure
+
+
+---------------------------------------------
+Clase
+
+Lista: Es dinamica
+
+
+
+

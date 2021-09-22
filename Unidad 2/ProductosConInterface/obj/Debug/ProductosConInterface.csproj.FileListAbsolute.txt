@@ -1,0 +1,10 @@
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\ProductosConInterface\bin\Debug\ProductosConInterface.exe.config
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\ProductosConInterface\bin\Debug\ProductosConInterface.exe
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\ProductosConInterface\bin\Debug\ProductosConInterface.pdb
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\ProductosConInterface\obj\Debug\ProductosConInterface.csprojAssemblyReference.cache
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\ProductosConInterface\obj\Debug\ProductosConInterface.frmProductos.resources
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\ProductosConInterface\obj\Debug\ProductosConInterface.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\ProductosConInterface\obj\Debug\ProductosConInterface.csproj.GenerateResource.cache
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\ProductosConInterface\obj\Debug\ProductosConInterface.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\ProductosConInterface\obj\Debug\ProductosConInterface.exe
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\ProductosConInterface\obj\Debug\ProductosConInterface.pdb
