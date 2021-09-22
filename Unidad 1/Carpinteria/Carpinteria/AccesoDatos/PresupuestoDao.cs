@@ -91,43 +91,16 @@ namespace Carpinteria.AccesoDatos
 
         public DataTable ListarProductos()
         {
-            SqlConnection conexion = new SqlConnection();
-            conexion.ConnectionString = @"Data Source=localhost\SQLEXPRESS;Initial Catalog=carpinteria_db;Integrated Security=True";
-            conexion.Open();
 
-            SqlCommand comando = new SqlCommand();
-            comando.Connection = conexion;
-            comando.CommandType = CommandType.StoredProcedure;
-            comando.CommandText = "SP_CONSULTAR_PRODUCTOS";
+            return HelperDao.ObtenerInstancia().ConsultaSQL("SP_CONSULTAR_PRODUCTOS");
 
-            DataTable tabla = new DataTable();
-            tabla.Load(comando.ExecuteReader());
-
-            conexion.Close();
-
-            return tabla;
         }
 
         public int ObtenerProxNro()
         {
-            SqlConnection conexion = new SqlConnection();
-            conexion.ConnectionString = @"Data Source=localhost\SQLEXPRESS;Initial Catalog=carpinteria_db;Integrated Security=True";
-            conexion.Open();
 
-            SqlCommand comando = new SqlCommand();
-            comando.Connection = conexion;
-            comando.CommandType = CommandType.StoredProcedure;
-            comando.CommandText = "SP_PROXIMO_ID";
+            return HelperDao.ObtenerInstancia().ProximoID("SP_PROXIMO_ID", "@next");
 
-            SqlParameter param = new SqlParameter("@next", SqlDbType.Int);
-            param.Direction = ParameterDirection.Output;
-            comando.Parameters.Add(param);
-
-            comando.ExecuteNonQuery(); //NonQuery cuando es un insert, update, delete
-
-            conexion.Close();
-
-            return (int)param.Value;
         }
     }
 }
