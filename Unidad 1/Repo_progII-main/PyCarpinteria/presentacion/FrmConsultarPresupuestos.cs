@@ -103,6 +103,18 @@ namespace PyCarpinteria.presentacion
                 frm.ShowDialog();
             }
         }
+
+        private void gbFiltros_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnEditar_Click(object sender, EventArgs e)
+        {
+            int nroPresupuesto = Convert.ToInt32(dgvResultados.CurrentRow.Cells["colNro"].Value.ToString());
+            Frm_Alta_Presupuesto frm = new Frm_Alta_Presupuesto(Accion.READ, nroPresupuesto);
+            frm.ShowDialog();
+        }
     }
 }
 

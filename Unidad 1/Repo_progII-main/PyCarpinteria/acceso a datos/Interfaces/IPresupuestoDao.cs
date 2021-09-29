@@ -17,6 +17,7 @@ namespace PyCarpinteria.acceso_a_datos.Interfaces
         int GetNextPresupuestoId();
 
         Presupuesto GetById(int id);
+        bool Update(Presupuesto oPresupuesto);
 
     }
 }

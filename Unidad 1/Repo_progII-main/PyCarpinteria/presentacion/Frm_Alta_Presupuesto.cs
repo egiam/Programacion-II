@@ -42,6 +42,11 @@ namespace PyCarpinteria.presentacion
                 this.Text = "VER PRESUPUESTO";
                 this.Cargar_presupuesto(nro);
             }
+            if (modo.Equals(Accion.UPDATE))
+            {
+                this.Text = "VER PRESUPUESTO";
+                this.Cargar_presupuesto(nro);
+            }
         }
 
         private void Cargar_presupuesto(int nro)

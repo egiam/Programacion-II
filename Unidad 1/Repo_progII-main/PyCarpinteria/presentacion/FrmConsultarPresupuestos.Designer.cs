@@ -71,6 +71,7 @@ namespace PyCarpinteria.presentacion
             this.gbFiltros.TabIndex = 0;
             this.gbFiltros.TabStop = false;
             this.gbFiltros.Text = "Criterios de búsqueda";
+            this.gbFiltros.Enter += new System.EventHandler(this.gbFiltros_Enter);
             // 
             // chkBaja
             // 
@@ -224,6 +225,7 @@ namespace PyCarpinteria.presentacion
             this.btnEditar.TabIndex = 2;
             this.btnEditar.Text = "Editar";
             this.btnEditar.UseVisualStyleBackColor = true;
+            this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
             // 
             // btnEliminar
             // 
