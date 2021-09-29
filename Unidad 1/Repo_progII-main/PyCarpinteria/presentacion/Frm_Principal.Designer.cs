@@ -38,9 +38,10 @@ namespace PyCarpinteria
             this.nuevoPresupuestoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.consultaDePresupuestoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.reporteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.acercaDeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.reporteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.editarPresupuestoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -69,8 +70,9 @@ namespace PyCarpinteria
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(96, 22);
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.salirToolStripMenuItem.Text = "Salir";
+            this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
             // soporteToolStripMenuItem
             // 
@@ -90,7 +92,8 @@ namespace PyCarpinteria
             // 
             this.presupuestosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.nuevoPresupuestoToolStripMenuItem,
-            this.consultaDePresupuestoToolStripMenuItem});
+            this.consultaDePresupuestoToolStripMenuItem,
+            this.editarPresupuestoToolStripMenuItem});
             this.presupuestosToolStripMenuItem.Name = "presupuestosToolStripMenuItem";
             this.presupuestosToolStripMenuItem.Size = new System.Drawing.Size(89, 20);
             this.presupuestosToolStripMenuItem.Text = "Presupuestos";
@@ -117,6 +120,13 @@ namespace PyCarpinteria
             this.reportesToolStripMenuItem.Size = new System.Drawing.Size(65, 20);
             this.reportesToolStripMenuItem.Text = "Reportes";
             // 
+            // reporteToolStripMenuItem
+            // 
+            this.reporteToolStripMenuItem.Name = "reporteToolStripMenuItem";
+            this.reporteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.reporteToolStripMenuItem.Text = "Reporte";
+            this.reporteToolStripMenuItem.Click += new System.EventHandler(this.reporteToolStripMenuItem_Click);
+            // 
             // ayudaToolStripMenuItem
             // 
             this.ayudaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -128,16 +138,16 @@ namespace PyCarpinteria
             // acercaDeToolStripMenuItem
             // 
             this.acercaDeToolStripMenuItem.Name = "acercaDeToolStripMenuItem";
-            this.acercaDeToolStripMenuItem.Size = new System.Drawing.Size(135, 22);
+            this.acercaDeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.acercaDeToolStripMenuItem.Text = "Acerca de...";
             this.acercaDeToolStripMenuItem.Click += new System.EventHandler(this.acercaDeToolStripMenuItem_Click);
             // 
-            // reporteToolStripMenuItem
+            // editarPresupuestoToolStripMenuItem
             // 
-            this.reporteToolStripMenuItem.Name = "reporteToolStripMenuItem";
-            this.reporteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.reporteToolStripMenuItem.Text = "Reporte";
-            this.reporteToolStripMenuItem.Click += new System.EventHandler(this.reporteToolStripMenuItem_Click);
+            this.editarPresupuestoToolStripMenuItem.Name = "editarPresupuestoToolStripMenuItem";
+            this.editarPresupuestoToolStripMenuItem.Size = new System.Drawing.Size(205, 22);
+            this.editarPresupuestoToolStripMenuItem.Text = "Editar Presupuesto";
+            this.editarPresupuestoToolStripMenuItem.Click += new System.EventHandler(this.editarPresupuestoToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -172,6 +182,7 @@ namespace PyCarpinteria
         private System.Windows.Forms.ToolStripMenuItem acercaDeToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem reportesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem reporteToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem editarPresupuestoToolStripMenuItem;
     }
 }
 
