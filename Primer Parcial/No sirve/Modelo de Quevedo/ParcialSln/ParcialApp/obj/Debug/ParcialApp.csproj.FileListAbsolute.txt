@@ -1,0 +1,29 @@
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Presentacion.Frm_Alta.resources
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Properties.Resources.resources
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe.config
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\bin\Debug\ParcialApp.pdb
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.exe
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.pdb
+D:\Downloads\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.AssemblyReference.cache
+D:\Downloads\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Presentacion.Frm_Alta.resources
+D:\Downloads\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Properties.Resources.resources
+D:\Downloads\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.GenerateResource.cache
+D:\Downloads\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.CoreCompileInputs.cache
+D:\Downloads\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\obj\Debug\ParcialApp.exe
+D:\Downloads\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\obj\Debug\ParcialApp.pdb
+D:\Downloads\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe.config
+D:\Downloads\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe
+D:\Downloads\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\bin\Debug\ParcialApp.pdb
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Modelo de Quevedo\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe.config
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Modelo de Quevedo\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Modelo de Quevedo\ParcialSln\ParcialApp\bin\Debug\ParcialApp.pdb
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Modelo de Quevedo\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csprojAssemblyReference.cache
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Modelo de Quevedo\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Presentacion.Frm_Alta.resources
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Modelo de Quevedo\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Properties.Resources.resources
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Modelo de Quevedo\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.GenerateResource.cache
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Modelo de Quevedo\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.CoreCompileInputs.cache
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Modelo de Quevedo\ParcialSln\ParcialApp\obj\Debug\ParcialApp.exe
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Modelo de Quevedo\ParcialSln\ParcialApp\obj\Debug\ParcialApp.pdb

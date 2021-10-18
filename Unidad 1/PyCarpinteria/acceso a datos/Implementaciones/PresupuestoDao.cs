@@ -131,7 +131,7 @@ namespace PyCarpinteria.acceso_a_datos.Implementaciones
 
         public int GetNextPresupuestoId()
         {
-            SqlConnection cnn = new SqlConnection(@"Data Source =.\SQLEXPRESS; Initial Catalog = db_carpinteria; Integrated Security = True");
+            SqlConnection cnn = new SqlConnection(@"Data Source =localhost\SQLEXPRESS; Initial Catalog = db_carpinteria; Integrated Security = True");
             cnn.Open();
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = cnn;
@@ -154,7 +154,7 @@ namespace PyCarpinteria.acceso_a_datos.Implementaciones
         public List<Producto> GetProductos()
         {
             List<Producto> lst = new List<Producto>();
-            SqlConnection cnn = new SqlConnection(@"Data Source =.\SQLEXPRESS; Initial Catalog = db_carpinteria; Integrated Security = True");
+            SqlConnection cnn = new SqlConnection(@"Data Source =localhost\SQLEXPRESS; Initial Catalog = db_carpinteria; Integrated Security = True");
             cnn.Open();
             SqlCommand cmd2 = new SqlCommand("SP_CONSULTAR_PRODUCTOS", cnn);
 
@@ -182,7 +182,7 @@ namespace PyCarpinteria.acceso_a_datos.Implementaciones
         public bool Save(Presupuesto oPresupuesto)
         {
             SqlTransaction transaccion = null;
-            SqlConnection cnn = new SqlConnection(@"Data Source =.\SQLEXPRESS; Initial Catalog = db_carpinteria; Integrated Security = True");
+            SqlConnection cnn = new SqlConnection(@"Data Source =localhost\SQLEXPRESS; Initial Catalog = db_carpinteria; Integrated Security = True");
 
             bool flag = true;
             try
