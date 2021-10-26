@@ -1,0 +1,5 @@
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasLib\obj\Debug\net5.0\RecetasLib.csproj.AssemblyReference.cache
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasLib\obj\Debug\net5.0\RecetasLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasLib\obj\Debug\net5.0\RecetasLib.AssemblyInfoInputs.cache
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasLib\obj\Debug\net5.0\RecetasLib.AssemblyInfo.cs
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasLib\obj\Debug\net5.0\RecetasLib.csproj.CoreCompileInputs.cache

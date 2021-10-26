@@ -1,0 +1,74 @@
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasWebAPI.exe
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasWebAPI.deps.json
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasWebAPI.runtimeconfig.json
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasWebAPI.runtimeconfig.dev.json
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasWebAPI.dll
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\ref\RecetasWebAPI.dll
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasWebAPI.pdb
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasBack.dll
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasBack.pdb
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.AssemblyInfo.cs
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\staticwebassets\RecetasWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\staticwebassets\RecetasWebAPI.StaticWebAssets.xml
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\scopedcss\bundle\RecetasWebAPI.styles.css
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.csproj.CopyComplete
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.dll
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\ref\RecetasWebAPI.dll
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.pdb
+C:\Users\marti\Desktop\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.genruntimeconfig.cache
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\appsettings.json
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasWebAPI.exe
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasWebAPI.deps.json
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasWebAPI.runtimeconfig.json
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasWebAPI.runtimeconfig.dev.json
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasWebAPI.dll
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\ref\RecetasWebAPI.dll
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasWebAPI.pdb
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasBack.dll
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\bin\Debug\net5.0\RecetasBack.pdb
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.csproj.AssemblyReference.cache
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.AssemblyInfoInputs.cache
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.AssemblyInfo.cs
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.csproj.CoreCompileInputs.cache
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\staticwebassets\RecetasWebAPI.StaticWebAssets.Manifest.cache
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\staticwebassets\RecetasWebAPI.StaticWebAssets.xml
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\scopedcss\bundle\RecetasWebAPI.styles.css
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.RazorTargetAssemblyInfo.cache
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.csproj.CopyComplete
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.dll
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\ref\RecetasWebAPI.dll
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.pdb
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Unidad 4\Alta_recetas\RecetasWebAPI\obj\Debug\net5.0\RecetasWebAPI.genruntimeconfig.cache
