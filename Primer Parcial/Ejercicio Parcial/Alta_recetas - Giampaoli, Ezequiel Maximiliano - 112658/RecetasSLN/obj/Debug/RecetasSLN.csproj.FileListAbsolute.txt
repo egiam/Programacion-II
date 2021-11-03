@@ -11,10 +11,10 @@ C:\Users\marti\source\repos\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.pdb
 D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Ejercicio Parcial\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasSLN\bin\Debug\RecetasSLN.exe.config
 D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Ejercicio Parcial\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasSLN\bin\Debug\RecetasSLN.exe
 D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Ejercicio Parcial\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasSLN\bin\Debug\RecetasSLN.pdb
-D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Ejercicio Parcial\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasSLN\obj\Debug\RecetasSLN.csprojAssemblyReference.cache
 D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Ejercicio Parcial\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasSLN\obj\Debug\RecetasSLN.Frm_Alta.resources
 D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Ejercicio Parcial\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasSLN\obj\Debug\RecetasSLN.Properties.Resources.resources
 D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Ejercicio Parcial\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasSLN\obj\Debug\RecetasSLN.csproj.GenerateResource.cache
 D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Ejercicio Parcial\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasSLN\obj\Debug\RecetasSLN.csproj.CoreCompileInputs.cache
 D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Ejercicio Parcial\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasSLN\obj\Debug\RecetasSLN.exe
 D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Ejercicio Parcial\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasSLN\obj\Debug\RecetasSLN.pdb
+D:\UTN\Carrera\Semestre 2\Programacion II\Programacion-II\Primer Parcial\Ejercicio Parcial\Alta_recetas - Giampaoli, Ezequiel Maximiliano - 112658\RecetasSLN\obj\Debug\RecetasSLN.csproj.AssemblyReference.cache
